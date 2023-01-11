@@ -21,7 +21,7 @@ https://sqlbolt.com/lesson/select_queries_introduction
 # Books
   - [Podróż przez świat testowania, Karolina Pawłowska, Natalia Pawlak](https://www.funwithbugs.com/store/)
  # My projects
- - [Mind map](https://drive.google.com/file/d/1Ma9Gugrbka8CZbuOZg2DUiQGm06xcCUx/view?usp=share_link)
+ - [Mind map](https://drive.google.com/file/d/1N682KgzyqZFY9rNiXinJQ6kmcBnKzHpS/view?usp=share_link)
  - [Bugs report from Jira](https://drive.google.com/file/d/1MMHXz2F2TVkX5-vA5sbFSKUcXfa0xWX7/view?usp=share_link)
  - [Bugs report](https://drive.google.com/file/d/1LDbqxUY9XQsb7IwyTQ03eLgZ5b901foj/view?usp=share_link)
  
