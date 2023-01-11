@@ -4,7 +4,7 @@ Hello, welcome to my profil. In October 2022 I've decided to replace bacteria te
 
 # Tools
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
-  - [MindMup](https://www.mindmup.com/) - Mind mappind software
+  - [MindMup](https://www.mindmup.com/) - Mind mapping software
   - Github
 # Tech skills
   - SQL
@@ -16,7 +16,7 @@ https://sqlbolt.com/lesson/select_queries_introduction
   - Reporting bugs
   - Creating diagrams, mind maps and decision tables
 # Courses
-  - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-poznan/)
+  - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-zdalnie/)
   - [Analiza danych w języku Python (Infoshare Academy)](https://infoshareacademy.com/)
 # Books
   - [Podróż przez świat testowania, Karolina Pawłowska, Natalia Pawlak](https://www.funwithbugs.com/store/)
