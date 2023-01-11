@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-I want to replace bacteria testing with software testing. Here are all my projects.
+Hello, welcome to my profil. In October 2022 I've decided to replace bacteria testing with software testing. I share my projects here.
 
 # Tools
   - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
