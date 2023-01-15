@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-Hello, welcome to my profil. 
+Hello, I'm Paulina, welcome to my profil. 
 In October 2022 I've decided to replace bacteria testing with software testing. I share my projects here.
 
 # Tools
@@ -22,7 +22,7 @@ https://sqlbolt.com/lesson/select_queries_introduction
 # Books
   - [Podróż przez świat testowania, Karolina Pawłowska, Natalia Pawlak](https://www.funwithbugs.com/store/)
  # My work
- - [Mind map](https://drive.google.com/file/d/1N682KgzyqZFY9rNiXinJQ6kmcBnKzHpS/view?usp=share_link) - it's mind map for Student Registration Form https://demoqa.com/automation-practice-form
+ - [Mind map](https://drive.google.com/file/d/1N682KgzyqZFY9rNiXinJQ6kmcBnKzHpS/view?usp=share_link) - A mind map for Student Registration Form https://demoqa.com/automation-practice-form
  - [Bugs report from Jira](https://drive.google.com/file/d/1MMHXz2F2TVkX5-vA5sbFSKUcXfa0xWX7/view?usp=share_link) - Bug's report downloaded from Jira for exploratory testing of a website https://www.expander.pl/  
  - [Bugs report](https://drive.google.com/file/d/1LDbqxUY9XQsb7IwyTQ03eLgZ5b901foj/view?usp=share_link) - Bug's report of aplication's screenshots 
  
