@@ -15,6 +15,7 @@ In October 2022 I've decided to replace bacteria testing with software testing. 
   - Creating test cases
   - Reporting bugs
   - Creating diagrams, mind maps and decision tables
+  - Python
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-zdalnie/)
   - [Analiza danych w języku Python (Infoshare Academy)](https://infoshareacademy.com/)
