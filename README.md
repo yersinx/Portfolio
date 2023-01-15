@@ -8,8 +8,7 @@ In October 2022 I've decided to replace bacteria testing with software testing. 
   - [MindMup](https://www.mindmup.com/) - Mind mapping software
   - Github
 # Tech skills
-  - SQL
-https://sqlbolt.com/lesson/select_queries_introduction
+  - SQL 
   - Excel 
   - SCRUM
   - Software testing
@@ -19,10 +18,11 @@ https://sqlbolt.com/lesson/select_queries_introduction
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-zdalnie/)
   - [Analiza danych w języku Python (Infoshare Academy)](https://infoshareacademy.com/)
+  - [SQL Bolt](https://sqlbolt.com/lesson/select_queries_introduction)
 # Books
   - [Podróż przez świat testowania, Karolina Pawłowska, Natalia Pawlak](https://www.funwithbugs.com/store/)
  # My work
  - [Mind map](https://drive.google.com/file/d/1N682KgzyqZFY9rNiXinJQ6kmcBnKzHpS/view?usp=share_link) - A mind map for [Student Registration Form](https://demoqa.com/automation-practice-form)
  - [Bugs report from Jira](https://drive.google.com/file/d/1MMHXz2F2TVkX5-vA5sbFSKUcXfa0xWX7/view?usp=share_link) - Exploratory testing of a [website - Expander](https://www.expander.pl/), a Bug's report downloaded from Jira 
  - [Bugs report](https://drive.google.com/file/d/1LDbqxUY9XQsb7IwyTQ03eLgZ5b901foj/view?usp=share_link) - Bug's report of aplication's screenshots 
- 
+ - [My Trello board](https://trello.com/b/ALhW7Kgc) 
