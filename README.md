@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-Hello, I'm Paulina, welcome to my profil. 
+Hello, I'm Paulina, welcome to my profile. 
 In October 2022 I've decided to replace bacteria testing with software testing. I share my projects here.
 
 # Tools
@@ -8,14 +8,14 @@ In October 2022 I've decided to replace bacteria testing with software testing. 
   - [MindMup](https://www.mindmup.com/) - Mind mapping software
   - Github
 # Tech skills
-  - SQL 
-  - Excel 
-  - SCRUM
-  - Software testing
-  - Creating test cases
-  - Reporting bugs
-  - Creating diagrams, mind maps and decision tables
-  - Python
+  - SQL (basic)
+  - Excel (intermediate)
+  - SCRUM (basic)
+  - Software testing (basic)
+  - Creating test cases (basic)
+  - Reporting bugs (basic)
+  - Creating diagrams, mind maps and decision tables (intermediate)
+  - Python (basic)
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-zdalnie/)
   - [Analiza danych w języku Python (Infoshare Academy)](https://infoshareacademy.com/)
