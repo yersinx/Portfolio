@@ -20,7 +20,7 @@ In October 2022 I've decided to replace bacteria testing with software testing. 
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-zdalnie/)
   - [Analiza danych w języku Python (Infoshare Academy)](https://infoshareacademy.com/)
   - [SQL Bolt](https://sqlbolt.com/lesson/select_queries_introduction)
-  - [Excel średnio zaawansowany](https://expose.pl/szkolenia/kurs-microsoft-excel-sredniozaawansowany/)
+  - [Kurs Excel średnio zaawansowany](https://expose.pl/szkolenia/kurs-microsoft-excel-sredniozaawansowany/)
 # Books
   - [Podróż przez świat testowania, Karolina Pawłowska, Natalia Pawlak](https://www.funwithbugs.com/store/)
   - [Certyfikowany tester ISTQB. Poziom podstawowy, Adam Roman, Lucjan Stapp](https://lubimyczytac.pl/ksiazka/4943677/certyfikowany-tester-istqb-poziom-podstawowy)
