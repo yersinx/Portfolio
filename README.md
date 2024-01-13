@@ -8,14 +8,13 @@ In October 2022 I've decided to replace bacteria testing with software testing. 
   - [MindMup](https://www.mindmup.com/) - Mind mapping software
   - Github
 # Tech skills
-  - SQL (basic)
   - Excel (intermediate)
-  - SCRUM (basic)
-  - Software testing (basic)
-  - Creating test cases (basic)
-  - Reporting bugs (basic)
+  - JIRA (Reporting bugs, creating test plans, test executions)
+  - Software testing 
+  - Chrome DevTools
   - Creating diagrams, mind maps and decision tables (intermediate)
   - Python (basic)
+  - HTML, CSS (in progress)
 # Courses
   - [CODE:ME Podstawy testowania w praktyce](https://codeme.pl/testowanie-zdalnie/)
   - [Analiza danych w języku Python (Infoshare Academy)](https://infoshareacademy.com/)
